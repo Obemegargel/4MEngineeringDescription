@@ -6,7 +6,7 @@ My client 4MEngineers.com asked me to to develop, test, and deploy a website eff
 
 ## Tech Stack
 - VS Code
-- HTML/CSS/JS (vanilla or frameworks)
+- HTML/CSS/JS/PHP (vanilla or frameworks)
 - GoDaddy cPanel (domain and hosting)
 - FileZilla (SFTP file transfer)
 - XAMPP (local Apache server for testing)
