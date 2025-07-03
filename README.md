@@ -10,6 +10,7 @@ My client 4MEngineers.com asked me to to develop, test, and deploy a website eff
 - GoDaddy cPanel (domain and hosting)
 - FileZilla (SFTP file transfer)
 - XAMPP (local Apache server for testing)
+- Google Analytics (to help track site activity)
 
 ## 🛠️ Tools Overview
 
